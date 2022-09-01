@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.navbar{
+    background-color: rgb(118, 9, 196) !important;
+}
+.navbar-brand{
+    color: #fff !important;
+    font-size: larger;
+    font-weight: bolder;
+}
+.nav-menu-text{
+    color: #fff !important;
+    font-size: large;
+    font-weight: bold;
+}
