@@ -49,7 +49,7 @@
             </form>
         </div>
         <div class="container download-btns d-none">
-          <h2 class="text-center text-secondary">Download</h2><br><hr>
+          <h2 class="text-center text-secondary">Download [this is just basic demo]</h2><br><hr>
           <a name="" id="" class="btn btn-primary download-1080-btn" href="#" role="button">1080p</a>
           <a name="" id="" class="btn btn-primary download-720-btn" href="#" role="button">720p</a>
           <a name="" id="" class="btn btn-primary download-480-btn" href="#" role="button">480p</a>
